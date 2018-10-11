@@ -3,6 +3,7 @@
 
 galaxy_info:
     author: williamyeh
+    role_name: prometheus
     description: Install and configure Prometheus
     license: MIT
 
